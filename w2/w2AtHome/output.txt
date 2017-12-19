@@ -1,0 +1,5 @@
+Script started on Thu 22 Sep 2016 03:54:33 PM EDT
+ykim185@matrix:~/w2/w2AtHome> exit
+exit
+
+Script done on Thu 22 Sep 2016 03:54:48 PM EDT

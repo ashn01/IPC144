@@ -1,0 +1,3 @@
+Name : Youngmin Kim
+
+I learned how to install Microsoft Visual Studio Community and I installed it at home. I learned creating a project and adding c file and compiling c file. Every work I have done at home works perfect. Also, I learned about connecting matrix and programs such as putty. GCC compiler is unfamiliar to me but interesting.

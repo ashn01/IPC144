@@ -1,0 +1,18 @@
+Script started on Wed 09 Nov 2016 03:56:38 PM EST
+ykim185@matrix:~/ipc144/w8/w8AtHome> runws
+####### Marks Analyzer V3.0 #######
+Enter student id and marks (e.g. 12345 89.5): 12345 55.55
+Enter student id and marks (e.g. 12345 89.5): 23456 66.66
+Enter student id and marks (e.g. 12345 89.5): 34567 77.77
+Enter student id and marks (e.g. 12345 89.5): 45678 88.88
+Enter student id and marks (e.g. 12345 89.5): 99999 -1
+1. 12345, 55.55
+2. 23456, 66.66
+3. 34567, 77.77
+4. 45678, 88.88
+### result of marks analysis ###
+average: 72.22, highest marks: 88.88, lowest marks: 55.55
+ykim185@matrix:~/ipc144/w8/w8AtHome> exit
+exit
+
+Script done on Wed 09 Nov 2016 03:56:54 PM EST

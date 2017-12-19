@@ -1,0 +1,4 @@
+1) structure type is derived type.
+2) structure type can contain various type of value such as int and char; however, array can only contain same type of value.
+3) I can access a member of an object of a structure by using ".".
+For example, if a structure called Student has a value called ID and declared as std, I can access ID like "std.ID".

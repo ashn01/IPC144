@@ -1,0 +1,10 @@
+
+In line number 49 of your output:
+The output should be:
+1- Sort by Sku
+But your output is: 
+1- Sort by SKU
+            ^
+------------|
+Professor's character ASCII code: hex(6b), dec(107)
+un-matched character ASCII code: hex(4b), dec(75)

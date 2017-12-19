@@ -1,0 +1,3 @@
+1.functions contain programming codes and can be called many time. functions are useful because it makes code concise because once a function is created, it can be called anywhere. functions could have return type and parameters. 
+2. balanceUp and balanceDown can be called when the same function is needed. we do not have to write the same code again; we can call the functions. 
+3. we can send data through parameters and we can get data through return. parameters can be many; however, a function can return only one value.

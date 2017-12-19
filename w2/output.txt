@@ -1,0 +1,14 @@
+Script started on Wed 21 Sep 2016 04:11:45 PM EDT
+ykim185@matrix:~/w2> w2
+Please enter the number of coins in your piggy bank:
+Toonies: 20
+Loonies: 10
+Quarters: 5
+Dimes: 3
+Nickels: 2
+Pennies: 1
+You have $51.66 in your piggy bank!
+ykim185@matrix:~/w2> exit
+exit
+
+Script done on Wed 21 Sep 2016 04:14:32 PM EDT

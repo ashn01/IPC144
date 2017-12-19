@@ -1,0 +1,23 @@
+Script started on Sun 25 Sep 2016 07:16:46 PM EDT
+fardad.soleimanloo@matrix:~/ipc144/IPC-Dev/Workshops/IPC-WS3/at_home> a.out
+       ---=== IPC mark Analyser ===---
+Please enter the number of marks(between 3 and 40): 5
+1> 45
+2> -1
+Error: Enter values between 0 and 100 inclusive.
+2> 90
+3> 57
+4> 110
+Error: Enter values between 0 and 100 inclusive.
+4> 89
+5> 32
+Total of 3 students passed with an average of 78.7.
+Total of 2 students failed with an average of 38.5.
+Highest mark in group: 90
+Lowest mark in group: 32
+The average of all marks in this group is 62.6.
+Program Ended.
+fardad.soleimanloo@matrix:~/ipc144/IPC-Dev/Workshops/IPC-WS3/at_home> exit
+exit
+
+Script done on Sun 25 Sep 2016 07:17:51 PM EDT

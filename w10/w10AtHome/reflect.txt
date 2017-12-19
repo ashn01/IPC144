@@ -1,0 +1,3 @@
+1. null character indicates the end of the string array. So, without null character, computer will read characters until it gets null characters. It will occur unexpected result because it will read other memory which is not expected to be used as a string.
+
+2. if terminating null is not inserted, memory will be read until it gets null character, so user can see unexpected string letter.

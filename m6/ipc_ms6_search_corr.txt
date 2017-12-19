@@ -1,0 +1,66 @@
+Script started on Tue 06 Dec 2016 05:15:56 PM EST
+IPC_MS6> runms
+---=== Grocery Inventory System ===---
+
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+8- Sort Items
+0- Exit program
+> 7
+Please enter partial name: b
+Row |SKU| Name               | Price  |Taxed| Qty | Min |   Total    |Atn
+----+---+--------------------+--------+-----+-----+-----+------------|---
+3   |240|Blueberries         |    3.99|   No|  30 |   5 |      119.70|
+6   |495|Banana              |    0.44|   No| 100 |  30 |       44.00|
+10  |359|Beffsteak Pie       |    5.29|  Yes|  40 |   5 |      239.11|
+--------------------------------------------------------+----------------
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+8- Sort Items
+0- Exit program
+> 7
+Please enter partial name: nothing
+No matches found!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+8- Sort Items
+0- Exit program
+> 7
+Please enter partial name: veal
+Row |SKU| Name               | Price  |Taxed| Qty | Min |   Total    |Atn
+----+---+--------------------+--------+-----+-----+-----+------------|---
+9   |846|Veal Parmigiana     |    5.49|  Yes|   3 |   5 |       18.61|***
+--------------------------------------------------------+----------------
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+8- Sort Items
+0- Exit program
+> 0
+Exit the program? (Y)es/(N)o): y
+IPC_MS6> exit
+exit
+
+Script done on Tue 06 Dec 2016 05:16:46 PM EST

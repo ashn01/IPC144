@@ -1,0 +1,10 @@
+
+In line number 56 of your output:
+The output should be:
+Item 2341 costs $12.78
+But your output is: 
+Item 2341 costs $0.00
+                 ^
+-----------------|
+Professor's character ASCII code: hex(31), dec(49)
+un-matched character ASCII code: hex(30), dec(48)

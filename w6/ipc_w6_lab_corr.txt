@@ -1,0 +1,136 @@
+Script started on Sun 16 Oct 2016 11:57:51 PM EDT
+in_lab> a.out
+***** Welcome to Savings Account Banking *****
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 5
+
+-- Account information --
+
+Account# Balance   
+-------- ----------
+11111111     123.45
+22222222   12365.50
+33333333       0.00
+44444444    1475.00
+55555555   25000.65
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 1
+
+-- Make a deposit --
+
+Enter account number: 67676767
+ERROR: Account number does not exist.
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 1
+
+-- Make a deposit --
+
+Enter account number: 44444444
+Enter amount to deposit (CAD): 20
+Current balance is : 1495.00
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 1
+
+-- Make a deposit --
+
+Enter account number: 11111111
+Enter amount to deposit (CAD): 450.67
+Current balance is : 574.12
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 5
+
+-- Account information --
+
+Account# Balance   
+-------- ----------
+11111111     574.12
+22222222   12365.50
+33333333       0.00
+44444444    1495.00
+55555555   25000.65
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 3
+
+-- Add monthly interest earnings to all accounts --
+
+Account# New Balance Interest Earnings (M)
+-------- ----------- ---------------------
+11111111      583.65                  9.53
+22222222    12673.40                307.90
+33333333        0.00                  0.00
+44444444     1519.82                 24.82
+55555555    25623.17                622.52
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 5
+
+-- Account information --
+
+Account# Balance   
+-------- ----------
+11111111     583.65
+22222222   12673.40
+33333333       0.00
+44444444    1519.82
+55555555   25623.17
+
+1.) Deposit 
+2.) Withdraw
+3.) Apply monthly interest earnings to all accounts
+4.) Apply service charges to all accounts
+5.) Account Summary
+0.) Log out
+
+Please enter an option to continue: 0
+in_lab> exit
+exit
+
+Script done on Mon 17 Oct 2016 12:00:11 AM EDT

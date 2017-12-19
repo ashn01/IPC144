@@ -1,0 +1,5 @@
+The advantages of dividing the program into Data Entry, Analysis and Report is easily readable. If it is drawn as one Flow Chart, it will looks complicated. 
+
+If the number of elements initialized is less than the elements in the array, the elements will be initialized to 0 automatically. 
+
+parallel arrays are two arrays have different values, but they can be matched by index number, for example, a ID array has user ID, and a password array has user password. User1's ID will be stored in ID[0] and password will be stored in password[0]. When computer display User1's ID and password, it can be displayed by index number 0.  

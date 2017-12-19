@@ -1,0 +1,1 @@
+I have learned how to get user input so I can code input and output using scanf and printf. Also, I can distinguish between types. Once I got an error when I compiled my code without "return 1"; it occured warning.

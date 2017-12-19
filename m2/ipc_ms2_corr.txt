@@ -1,0 +1,107 @@
+Script started on Sun 30 Oct 2016 10:43:28 PM EDT
+fardad.soleimanloo@matrix:~/IPC_MS2> runms
+---=== Grocery Inventory System ===---
+
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 8
+Invalid value, 0 < value < 7: 1
+List Items!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 2
+Search Items!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 3
+Checkout Item!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 4
+Stock Item!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 5
+Add/Update Item!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 6
+Delete Item!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 7
+Search by name!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 0
+Exit the program? (Y)es/(N)o : x
+Only (Y)es or (N)o are acceptable: n
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> 0
+Exit the program? (Y)es/(N)o : y
+fardad.soleimanloo@matrix:~/IPC_MS2> exit
+exit
+
+Script done on Sun 30 Oct 2016 10:45:32 PM EDT

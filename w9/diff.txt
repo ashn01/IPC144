@@ -1,0 +1,10 @@
+
+In line number 30 of your output:
+The output should be:
+ID:         55
+But your output is: 
+
+^
+|
+Professor's character ASCII code: hex(49), dec(73)
+un-matched character ASCII code: hex(d), dec(13)

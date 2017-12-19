@@ -1,0 +1,10 @@
+
+In line number 4 of your output:
+The output should be:
+Enter student id and marks (e.g. 12345 89.5): 12345 55.55
+But your output is: 
+Segmentation fault
+^
+|
+Professor's character ASCII code: hex(45), dec(69)
+un-matched character ASCII code: hex(53), dec(83)

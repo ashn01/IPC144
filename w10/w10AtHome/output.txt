@@ -1,0 +1,15 @@
+Script started on Wed 30 Nov 2016 03:34:32 PM EST
+ruykim185@matrix:~/ipc144/w10/w10AtHome> runws
+Password Game
+=============
+Enter your name (up to 8 characters): THRILLHO
+WELCOME THRILLHO
+Guess the password (up to 8 characters) THRILLHO: password
+FALSE: Guess the password (up to 8 characters) THRILLH: oops
+FALSE: Guess the password (up to 8 characters) THRILL: SGQHKKGN
+You got it, THRILLHO!!!
+Game Over!
+ykim185@matrix:~/ipc144/w10/w10AtHome> exit
+exit
+
+Script done on Wed 30 Nov 2016 03:34:53 PM EST

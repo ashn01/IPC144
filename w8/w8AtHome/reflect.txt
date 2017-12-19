@@ -1,0 +1,5 @@
+1. The advantage of using an array of struct instead of two parallel arrays is the parameters are less, for example, if using struct, one parameter, but if using two parallel arrays, two parameters.
+
+2. Purpose of declaring a function parameter as a pointer is to change parameter's value because if the parameter sent to a function without pointer, the function can change the parameter's value; however, when the parameter back to the caller function, value doesn't change as it has changed in the function.
+
+3. The keyword const is used to protect the valuable because when const is used, the value cannot change.

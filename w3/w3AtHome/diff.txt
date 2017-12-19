@@ -1,0 +1,10 @@
+
+In line number 7 of your output:
+The output should be:
+Error: Enter values between 0 and 100 inclusive.
+But your output is: 
+Error : Enter values between 0 and 100 inclusive.
+     ^
+-----|
+Professor's character ASCII code: hex(3a), dec(58)
+un-matched character ASCII code: hex(20), dec(32)

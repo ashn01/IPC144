@@ -1,0 +1,54 @@
+Script started on Wed 16 Nov 2016 04:31:35 PM EST
+rykim185@matrix:~/ipc144/w9> runws
+Welcome to My Storage Room
+==========================
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 1
+List of boxes
+=============
+
+ID Length Width Height Weight
+-----------------------------
+10  50.34 61.00  30.00  50.50
+11  25.60 12.34   9.23  12.89
+55  10.00 20.00  30.00  40.50
+56  30.00 40.00  50.00  60.00
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 2
+Enter box ID: 55
+Found box 55 as record #3:
+
+ID:         55
+Length:  10.00
+Width:   20.00
+Height:  30.00
+Weight:  40.50
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 2
+Enter box ID: 15
+This box is not recorded.
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 0
+ykim185@matrix:~/ipc144/w9> exit
+exit
+
+Script done on Wed 16 Nov 2016 04:31:45 PM EST

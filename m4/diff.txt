@@ -1,0 +1,10 @@
+
+In line number 167 of your output:
+The output should be:
+Please enter the SKU: 444
+But your output is: 
+Please enter the SKU: 731
+                      ^
+----------------------|
+Professor's character ASCII code: hex(34), dec(52)
+un-matched character ASCII code: hex(37), dec(55)

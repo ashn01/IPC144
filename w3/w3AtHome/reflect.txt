@@ -1,0 +1,7 @@
+1) for, while, do-while
+
+2) when user want to excute a code at least one time, do while is better than while loop.
+
+3) conditional expression is that if it is true, excute an operand between ? and :, and if it is false, excute an operand following :.
+for example, a = b > 5 ? 3 : 4;
+if b is greater than 5, a = 3, else a = 4.

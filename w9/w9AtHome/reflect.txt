@@ -1,0 +1,5 @@
+1. read mode "a" is appending mode. written text will be appended at the end of the file and if the file doesn't exist, create the file. read mode "a+" is same as "a" mode but it makes possible to read the file as well.
+
+2. first record is 10 50.34 61.00 30.00 50.50, and third field is width.
+
+3. srand(); this function initializes rand function's seed. if we don't use this, we will get same rand value every time we excute this program.

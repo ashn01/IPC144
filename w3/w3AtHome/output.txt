@@ -1,0 +1,23 @@
+Script started on Wed 28 Sep 2016 04:34:35 PM EDT
+ykim185@matrix:~/ipc144/w3/w3AtHome> runws
+       ---=== IPC mark Analyser ===---
+Please enter the number of marks(between 3 and 40): 5
+1> 45
+2> -1
+Error: Enter values between 0 and 100 inclusive.
+2> 90
+3> 57
+4> 110
+Error: Enter values between 0 and 100 inclusive.
+4> 89
+5> 32
+Total of 3 students passed with an average of 78.7.
+Total of 2 students failed with an average of 38.5.
+Highest mark in group: 90
+Lowest mark in group: 32
+The average of all marks in this group is 62.6.
+Program Ended.
+ykim185@matrix:~/ipc144/w3/w3AtHome> exit
+exit
+
+Script done on Wed 28 Sep 2016 04:34:51 PM EDT

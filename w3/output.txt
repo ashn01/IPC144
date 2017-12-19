@@ -1,0 +1,17 @@
+Script started on Wed 28 Sep 2016 04:05:07 PM EDT
+ykim185@matrix:~/ipc144/w3> runws
+       ---=== IPC mark Analyser ===---
+Please enter the number of marks(between 3 and 40): 2
+Invalid number, enter a number between 3 and 40 inclusive: 41
+Invalid number, enter a number between 3 and 40 inclusive: 5
+1> 45
+2> 90
+3> 57
+4> 89
+5> 32
+The average of all marks in this group is 62.6.
+Program Ended.
+ykim185@matrix:~/ipc144/w3> exit
+exit
+
+Script done on Wed 28 Sep 2016 04:05:20 PM EDT

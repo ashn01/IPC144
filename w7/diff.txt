@@ -1,0 +1,10 @@
+
+In line number 36 of your output:
+The output should be:
+The item is successfully added to the inventory.
+But your output is: 
+Please select from the following options:
+^
+|
+Professor's character ASCII code: hex(54), dec(84)
+un-matched character ASCII code: hex(50), dec(80)

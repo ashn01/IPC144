@@ -1,0 +1,39 @@
+Script started on Wed 05 Oct 2016 06:56:14 PM EDT
+ykim185@matrix:~/ipc144/w4/w4AtHome> runws
+       ---=== IPC mark Analyser V2.0 ===---
+Please enter the number of students(between 3 and 40): 5
+Row   Std No  Mrk
+--- --------- ---
+    _________ ___  1 123456789 45
+    _________ ___  2 789456123 -1
+Error: Enter mark values between 0 and 100 inclusive.
+    _________ ___  2 789456123 101
+Error: Enter mark values between 0 and 100 inclusive.
+    _________ ___  2 789456123 90
+    _________ ___  3 9999999   57
+Error: Enter student number values between 10000000 and 999999999 inclusive.
+    _________ ___  3 1000000000 57
+Error: Enter student number values between 10000000 and 999999999 inclusive.
+    _________ ___  3 10000000  57
+    _________ ___  4 012345678 89
+    _________ ___  5 147258369 32
+=================
+Marks Entered, printing results:
+Row   Std No  Mrk
+--- --------- ---
+001 123456789  45
+002 789456123  90 ***Highest mark***
+003 010000000  57
+004 012345678  89
+005 147258369  32 ***Lowest mark***
+=================
+Total of 3 students passed with an average of 78.7.
+Total of 2 students failed with an average of 38.5.
+Highest mark in group: 90
+Lowest mark in group: 32
+The average of all marks in this group is 62.6.
+Program Ended.
+ykim185@matrix:~/ipc144/w4/w4AtHome> exit
+exit
+
+Script done on Wed 05 Oct 2016 06:57:32 PM EDT

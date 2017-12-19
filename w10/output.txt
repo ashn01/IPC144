@@ -1,0 +1,11 @@
+Script started on Wed 30 Nov 2016 03:26:02 PM EST
+ykim185@matrix:~/ipc144/w10> runws
+default name is: default
+Enter a name 100 characters or less: Millhous
+name was successfully changed!
+input is: Millhous
+name is: Millhous
+ykim185@matrix:~/ipc144/w10> exit
+exit
+
+Script done on Wed 30 Nov 2016 03:26:10 PM EST

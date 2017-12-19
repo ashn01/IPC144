@@ -1,0 +1,14 @@
+Script started on Mon 19 Sep 2016 12:03:24 AM EDT
+fardad.soleimanloo@matrix:~/ipc144/IPC-Dev/Workshops/IPC-WS2/in_lab> a.out
+Please enter the number of coins in your piggy bank:
+Toonies: 20
+Loonies: 10
+Quarters: 5
+Dimes: 3
+Nickels: 2
+Pennies: 1
+You have $51.66 in your piggy bank!
+fardad.soleimanloo@matrix:~/ipc144/IPC-Dev/Workshops/IPC-WS2/in_lab> exit
+exit
+
+Script done on Mon 19 Sep 2016 12:03:47 AM EDT

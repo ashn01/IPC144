@@ -1,0 +1,96 @@
+Script started on Fri 18 Nov 2016 01:08:45 PM EST
+rykim185@matrix:~/ipc144/w9/w9AtHome> runws
+Welcome to My Storage Room
+==========================
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 1
+List of boxes
+=============
+
+ID Length Width Height Weight
+-----------------------------
+10  50.34 61.00  30.00  50.50
+11  25.60 12.34   9.23  12.89
+55  10.00 20.00  30.00  40.50
+56  30.00 40.00  50.00  60.00
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 3
+Please enter the box's ID, length, width, height and weight: 55 5.2 6.3 7.4 8.5
+A box with this ID is already recorded.
+0 box added to storage!
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 3
+Please enter the box's ID, length, width, height and weight: 57 5.2 6.3 7.4 8.5
+1 box added to storage!
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 1
+List of boxes
+=============
+
+ID Length Width Height Weight
+-----------------------------
+10  50.34 61.00  30.00  50.50
+11  25.60 12.34   9.23  12.89
+55  10.00 20.00  30.00  40.50
+56  30.00 40.00  50.00  60.00
+57   5.20  6.30   7.40   8.50
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 4
+
+Lucky box picked:
+
+ID:         56
+Length:  30.00
+Width:   40.00
+Height:  50.00
+Weight:  60.00
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 4
+
+Lucky box picked:
+
+ID:         11
+Length:  25.60
+Width:   12.34
+Height:   9.23
+Weight:  12.89
+
+1- List all boxes
+2- Find a box
+3- Add a box
+4- Randomly pick a lucky box!
+0- Exit program
+Select an option: 0
+ykim185@matrix:~/ipc144/w9/w9AtHome> exit
+exit
+
+Script done on Fri 18 Nov 2016 01:09:19 PM EST
